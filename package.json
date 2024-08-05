@@ -7,7 +7,7 @@
     "serve": "vite preview",
     "type-check": "tsc",
     "test": "vitest",
-    "lint": "eslint --fix --ext .js,.jsx,.ts,.tsx ."
+    "lint": "eslint --fix --ext .ts,.tsx ."
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
